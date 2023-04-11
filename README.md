@@ -1,4 +1,4 @@
-# ProjektiNeWeb
+# KS-Press
 
 Technology used: PHP, HTML, CSS, MYSQL.
 
