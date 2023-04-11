@@ -1,5 +1,8 @@
 # ProjektiNeWeb
 
+Technology used: PHP, HTML, CSS, MYSQL.
+
+
 The KS-press portal web application is an online platform that has been developed to provide users with the latest news and updates from around the world. The application focuses on providing news in the areas of sport, economy, and health.
 
 The home page of the KS-press portal displays the most recent news articles from each of these areas, allowing users to quickly and easily access the latest information. The application's user-friendly interface makes it easy for users to navigate through different sections and find the articles they are interested in.
